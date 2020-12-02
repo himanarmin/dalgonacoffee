@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Roboto&display=swap');
+body{
+    background-color: peachpuff;
+    font-family: 'Roboto', sans-serif;
+}
+h2{
+    color: sienna;
+    text-decoration: underline ;
+}
+button{
+    font-size: 120%;
+    background-color: brown;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
